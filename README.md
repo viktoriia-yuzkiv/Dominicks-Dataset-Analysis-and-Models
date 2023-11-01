@@ -15,3 +15,9 @@ The necessary Python packages required for this project are listed in the `requi
 ```
 pip install requirements.txt
 ```
+
+## Data
+
+The dataset used in this project is the Dominick's dataset, which is available at [Dominick's dataset](https://www.chicagobooth.edu/research/kilts/research-data/dominicks). We focused our analysis on the 'Cigarettes' category from the Dominick's dataset. To facilitate processing due to the dataset's large size, we have worked with a sliced version, limited to one store only.
+
+The data manual and codebook can be found at [Data Manual](https://www.chicagobooth.edu/research/kilts/research-data/-/media/enterprise/centers/kilts/datasets/dominicks-dataset/dominicks-manual-and-codebook_kiltscenter.pdf). It contains comprehensive information about the dataset, including the data structure, variables, and their descriptions.
